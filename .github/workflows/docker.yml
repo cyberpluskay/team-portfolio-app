@@ -1,4 +1,4 @@
-name: 🚀 CI/CD - Docker Build & Push
+name:  CI/CD - Docker Build & Push
 
 on:
   push:
